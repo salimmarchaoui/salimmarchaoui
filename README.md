@@ -19,6 +19,9 @@
 - 💼 3+ Years Experience in Web Development
 - 🌐 Full Stack Developer (Front + Back)
 - ⚡ Strong in JavaScript (DOM, APIs)
+- 🐍 Using Python for scripting & problem solving
+- 🎨 UI/UX design with Figma
+- 🧠 Creating UML diagrams (system design)
 - 🔥 Love building real-world applications
 - 📍 Based in Morocco
 
@@ -32,12 +35,22 @@
 
 ### ⚙️ Back-End
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python" />
 </p>
 
 ### 🗄️ Database (SQL + NoSQL)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🎨 UI/UX & Design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+### 🧠 Architecture & Modeling
+<p align="center">
+  <img src="https://img.shields.io/badge/UML-Diagrams-blue?style=for-the-badge" />
 </p>
 
 ### 🧰 Tools
