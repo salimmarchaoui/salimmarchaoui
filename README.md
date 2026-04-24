@@ -99,8 +99,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/salimmarchaoui/salimmarchaoui/output/github-contribution-grid-snake.svg" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/salimmarchaoui/salimmarchaoui/output/github-contribution-grid-snake-dark.svg" />
+
 </p>
 ---
 
