@@ -33,12 +33,12 @@
 
 ### ⚙️ Back-End
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
 </p>
 
 ### 🗄️ Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### 🧰 Tools
