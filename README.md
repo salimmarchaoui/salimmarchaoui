@@ -23,7 +23,6 @@
 - 📍 Based in Morocco
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### 🎨 Front-End
@@ -36,15 +35,16 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
 </p>
 
-### 🗄️ Database
+### 🗄️ Database (SQL + NoSQL)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### 🧰 Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
+
 
 ---
 
