@@ -106,7 +106,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" />www.linkedin.com/in/salim-marchaoui-70823a350</a>
   <a href="#"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
